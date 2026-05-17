@@ -1,0 +1,10 @@
+:root {
+  --bg: hsl(220, 12%, 10%);
+  --calc-bg: #0f1720;
+  --display-bg: #071020;
+  --text-color: #e6eef8;
+  --button-bg: linear-gradient(#1a2430, #0f1720);
+  --button-color: #e6eef8;
+  --btn-special: #ff8a00;
+  --btn-eq: #22c55e;
+}
